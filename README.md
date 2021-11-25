@@ -1,5 +1,9 @@
 # RoadRepo
 #### A JSON database storing infos on roads world-wide.
+![](https://img.shields.io/badge/API%20version-v1-green)
+![](https://img.shields.io/github/commit-activity/m/32Vache/RoadRepo)
+![](https://img.shields.io/github/repo-size/32Vache/RoadRepo)
+
 This repository is a JSON database that contains informations about certains roads-world wide.
 
 *Example code:*
@@ -14,4 +18,4 @@ This repository is a JSON database that contains informations about certains roa
 	}
 
 ## How to use, contribute...
-See wiki for all information.
+See [the wiki](https://github.com/32Vache/RoadRepo/wiki) for all information.
