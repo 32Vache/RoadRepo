@@ -9,8 +9,8 @@ This repository is a JSON database that contains informations about certains roa
 *Example code:*
 
     {"description": {
-	  "fr": "The A1 motorway (Autoroute A1) is a motorway in Northern France that links Lille to Paris."},
-      "en": "L\\'autoroute A1 est une autoroute dans le nord de la France qui relie Paris à Lille."
+	  "en": "The A1 motorway (Autoroute A1) is a motorway in Northern France that links Lille to Paris."},
+      "fr": "L\\'autoroute A1 est une autoroute dans le nord de la France qui relie Paris à Lille."
 		 },
 	 "length": "211",
 	 "opening_year": "1967"
