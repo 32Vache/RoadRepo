@@ -1,4 +1,4 @@
-<renderingStyle name="Depends-template" depends="default" defaultColor="#f1eae4" version="1">
+<renderingStyle name="OSM" depends="default" defaultColor="#f1eae4" version="1">
 
 	<renderingProperty attr="roadStyle" category="ui_hidden" type="string" />
 
